@@ -14,7 +14,7 @@ This project is done using [React](https://reactjs.org/) with [TypeScript](https
 
 ## Live Version
 
-TO DO: Deploy to Netlify
+https://63d4e4b34f22085035eece1f--os-simple-version.netlify.app/
 
 ## Getting Started
 
